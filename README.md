@@ -9,9 +9,9 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/holnuqk7cP0AAAAd/code-monkey-z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidmhasni&label=Profile%20views&color=0e75b6&style=flat" alt="khalidmhasni" /> </p>
 
-- 🔭 I’m currently working on **A Dynamic website using Django**
+- 🔭 I’m currently studying on **Machine learning and AI**
 
-- 👯 I’m collaborating **With a team of classmates**
+<!-->- 👯 I’m collaborating **With a team of classmates**<-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
