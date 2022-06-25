@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently studying on **Machine learning and AI**
 
-<!-->- 👯 I’m collaborating **With a team of classmates**<-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
